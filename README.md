@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+![AlexGtl's GitHub stats](https://github-readme-stats.vercel.app/api?username=alexgtl&count_private=true)
+
+
 <!--
 **alexgtl/alexgtl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
