@@ -1,6 +1,7 @@
 ### Hi there 👋
 
-[![Alex's GitHub stats](https://github-readme-stats.vercel.app/api?username=alexgtl)](https://github.com/alexgtl/github-readme-stats)
+<!--[![Alex's GitHub stats](https://github-readme-stats.vercel.app/api?username=alexgtl)](https://github.com/alexgtl/github-readme-stats)-->
+
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=alexgtl)](https://github.com/alexgtl/github-readme-stats)
 
 
